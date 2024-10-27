@@ -1,5 +1,5 @@
 ### HR Data Analysis Project
-**For more details on the methodologies and findings, please refer to the documentation provided**
+**For more details , please refer to the documentation provided**
 
 #### Overview
 
