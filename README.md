@@ -1,4 +1,5 @@
 ### HR Data Analysis Project
+**For more details on the methodologies and findings, please refer to the documentation provided**
 
 #### Overview
 
@@ -32,4 +33,3 @@ The project aims to identify relationships between employee experience (e.g., ye
 
 By combining Python, SQL, and Power BI, this project equips HR managers with actionable information to enhance employee retention, optimize performance evaluations, and improve overall job satisfaction.
 
-For more details on the methodologies and findings, please refer to the documentation provided.
