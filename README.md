@@ -26,7 +26,7 @@ The project aims to identify relationships between employee experience (e.g., ye
 - **Data Visualization**: Interactive dashboards in Power BI that present insights in a user-friendly format.
 - **SQL Queries**: Comprehensive data extraction and manipulation to derive meaningful insights.
 - **Demographic Analysis**: Examination of employee demographics to understand diversity and inclusion within the workforce.
-- **Attrition Insights**: Identification of high-turnover areas to facilitate targeted interventions.
+- **Insights**
 
 #### Conclusion
 
